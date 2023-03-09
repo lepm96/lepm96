@@ -2,13 +2,13 @@
 
 -  💻 Estudante de Sistemas para Internet na UNIESP
 -  📫 Contato **luuiseduu96@gmail.com**
--  📄 <a href="https://drive.google.com/file/d/1cqYnudOV_BskuFsdxQr9brVdlsYgx0Ka/view?usp=sharing" target="blank">CV</a>
+-  📄 <a href="https://drive.google.com/file/d/1cqYnudOV_BskuFsdxQr9brVdlsYgx0Ka/view?usp=sharing" target="_blank">CV</a>
 -  🌱 Atualmente estudando o módulo **Explorer** pela Rocketseat
 
 <br><h3 align="left">Me encontre aqui:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/luuiseduu96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luuiseduu96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luuiseduu96" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luuiseduu96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Conhecimentos:</h3>
