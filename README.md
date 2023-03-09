@@ -2,7 +2,7 @@
 
 -  💻 Estudante de Sistemas para Internet na UNIESP
 -  📫 Contato **luuiseduu96@gmail.com**
--  📄 <a href="https://drive.google.com/file/d/1cqYnudOV_BskuFsdxQr9brVdlsYgx0Ka/view?usp=sharing">CV</a>
+-  📄 <a href="https://drive.google.com/file/d/1cqYnudOV_BskuFsdxQr9brVdlsYgx0Ka/view?usp=sharing" target="blank">CV</a>
 -  🌱 Atualmente estudando o módulo **Explorer** pela Rocketseat
 
 <br><h3 align="left">Me encontre aqui:</h3>
