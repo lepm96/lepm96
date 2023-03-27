@@ -1,7 +1,7 @@
 <h1 align="left">Oi, sou Eduardo 👋</h1>
 
 -  💻 Estudante de Sistemas para Internet na UNIESP
--  📫 Contato **luuiseduu96@gmail.com**
+-  📫 Contato **luis.eduardo_96@outlook.com**
 -  📄 <a href="https://drive.google.com/file/d/1cqYnudOV_BskuFsdxQr9brVdlsYgx0Ka/view?usp=sharing" target="_blank">CV</a>
 -  🌱 Atualmente estudando o módulo **Explorer** pela Rocketseat
 
