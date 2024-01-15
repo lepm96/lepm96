@@ -1,8 +1,8 @@
 <h1 align="left">Oi, sou Eduardo 👋</h1>
 
--  💻 Estudante de Sistemas para Internet na UNIESP
+-  💻 Estudante de Sistemas para Internet na Cruzeiro do Sul
 -  📫 Contato **luis.eduardo_96@outlook.com**
--  📄 <a href="https://drive.google.com/file/d/1fKN6sNvEEnUfH6qMprWGSPt5xkj7gRix/view?usp=sharing" target="_blank">CV</a>
+-  📄 <a href="https://drive.google.com/file/d/1gifmamq7Eqwk2uC4rRCK_QnonoYLHegP/view?usp=drive_link" target="_blank">CV</a>
 -  🌱 Atualmente estudando o módulo **Explorer** pela Rocketseat
 
 <br><h3 align="left">Me encontre aqui:</h3>
